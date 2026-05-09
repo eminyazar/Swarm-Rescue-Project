@@ -1,0 +1,13 @@
+# Sürü Robotiği: Kolektif Arama-Kurtarma Projesi Bağımlılıkları
+
+# Vektör matematiği ve matris işlemleri için (Boids algoritmasının kalbi)
+numpy>=1.21.0
+
+# Simülasyonun görselleştirilmesi ve ekrana çizilmesi için
+opencv-python>=4.5.0
+
+# Simülasyon verilerinin (log) kaydedilmesi ve analizi için
+pandas>=1.3.0
+
+# Performans ve yakınsama (convergence) grafiklerinin oluşturulması için
+matplotlib>=3.4.0
